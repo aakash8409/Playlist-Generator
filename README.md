@@ -2,3 +2,4 @@
 "A Python script that generates custom music playlists based on user preferences or mood, using file handling and basic data structures."
 
 
+![image alt](https://github.com/aakash8409/Playlist-Generator/blob/main/Screenshot%202025-06-24%20000903.png?raw=true)
