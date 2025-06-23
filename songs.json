@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Happy Song",
+      "lyrics": "This is a happy song with happy lyrics",
+      "mood": "happy"
+    },
+    {
+      "title": "Sad Song",
+      "lyrics": "This is a sad song with sad lyrics",
+      "mood": "sad"
+    },
+    {
+      "title": "Upbeat Song",
+      "lyrics": "This is an upbeat song with upbeat lyrics",
+      "mood": "upbeat"
+    },
+  ]
